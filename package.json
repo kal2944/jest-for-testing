@@ -1,0 +1,31 @@
+{
+    "name": "jest-for-testing",
+    "version": "1.0.0",
+    "description": "Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase.",
+    "main": "calculator.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kal2944/jest-for-testing.git"
+    },
+    "keywords": [
+      "testing",
+      "jest"
+    ],
+    "author": "kalkidan Daniel",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/kal2944/jest-for-testing/issues"
+    },
+    "homepage": "https://github.com/kal2944/jest-for-testing#readme",  
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+
+  "scripts": {
+  "test": "jest"
+  }
+}
+
